@@ -7,7 +7,7 @@ This data is now loaded for analysis.
 The analysis consists of three pages of customer analysis and two pages of churn analysis.
 Customers are analysed based on their age, gender and credit card ownership.
 Chrun analysis is done based on age, gender, age group, tenure and geography.
-Finally a navigation page is created to link all the reports. Each button takes to the respective report.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dyou to the respective report.
+Finally a navigation page is created to link all the reports. Each button takes you to the respective report.
 
 
 
